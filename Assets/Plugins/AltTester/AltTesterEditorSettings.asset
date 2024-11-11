@@ -18,6 +18,48 @@ MonoBehaviour:
   XcrunPath: /usr/bin/xcrun
   MyTests:
   - _selected: 1
+    _testName: D:/Repositorios/AltUnity-Test-1-BAD/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testAssembly: Assembly-CSharp-Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestAssembly
+    _parentName: 
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 1
+  - _selected: 1
+    _testName: MyFirstTest
+    _testAssembly: Assembly-CSharp-Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestFixture
+    _parentName: D:/Repositorios/AltUnity-Test-1-BAD/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 1
+  - _selected: 1
+    _testName: MyFirstTest.TestStartGame
+    _testAssembly: Assembly-CSharp-Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: MyFirstTest
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/Editor/MyFirstTest.cs
+    _testSelectedCount: 0
+  - _selected: 1
     _testName: D:/Repositorios/AltUnity-Test-1-BAD/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll
     _testAssembly: Unity.TestTools.CodeCoverage.Editor
     _status: 0
@@ -105,9 +147,9 @@ MonoBehaviour:
   - _toBeBuilt: 1
     _path: Assets/Scenes/SampleScene.unity
     _buildIndex: 0
-  platform: 3
+  platform: 2
   StandaloneTarget: 5
-  RanInEditor: 0
+  RanInEditor: 1
   ScenePathDisplayed: 0
   BuildLocationPath: D:/Repositorios/AltUnity-Test-1-BAD/AltTest Unity Testing
   createXMLReport: 0
