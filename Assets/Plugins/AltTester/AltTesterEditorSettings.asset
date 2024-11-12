@@ -17,7 +17,7 @@ MonoBehaviour:
   IProxyPath: /usr/local/bin/iproxy
   XcrunPath: /usr/bin/xcrun
   MyTests:
-  - _selected: 1
+  - _selected: 0
     _testName: D:/Repositorios/AltUnity-Test-1-BAD/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
     _testAssembly: Assembly-CSharp-Editor
     _status: 0
@@ -30,8 +30,8 @@ MonoBehaviour:
     _testStackTrace: 
     _testDuration: 0
     path: 
-    _testSelectedCount: 1
-  - _selected: 1
+    _testSelectedCount: 0
+  - _selected: 0
     _testName: MyFirstTest
     _testAssembly: Assembly-CSharp-Editor
     _status: 0
@@ -44,8 +44,8 @@ MonoBehaviour:
     _testStackTrace: 
     _testDuration: 0
     path: 
-    _testSelectedCount: 1
-  - _selected: 1
+    _testSelectedCount: 0
+  - _selected: 0
     _testName: MyFirstTest.TestStartGame
     _testAssembly: Assembly-CSharp-Editor
     _status: 0
@@ -145,11 +145,17 @@ MonoBehaviour:
     _testSelectedCount: 0
   Scenes:
   - _toBeBuilt: 1
-    _path: Assets/Scenes/SampleScene.unity
+    _path: Assets/Scenes/Start.unity
+    _buildIndex: 0
+  - _toBeBuilt: 1
+    _path: Assets/Scenes/Main.unity
+    _buildIndex: 0
+  - _toBeBuilt: 1
+    _path: Assets/Scenes/Shop.unity
     _buildIndex: 0
   platform: 2
   StandaloneTarget: 5
-  RanInEditor: 1
+  RanInEditor: 0
   ScenePathDisplayed: 0
   BuildLocationPath: D:/Repositorios/AltUnity-Test-1-BAD/AltTest Unity Testing
   createXMLReport: 0
